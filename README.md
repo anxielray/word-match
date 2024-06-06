@@ -19,7 +19,7 @@ LET'S GET SOME FUN OUT OF IT! SHALL WE!
 - Installation is done, now let's install our program.
 - Open the terminal from the search bar and paste the commands:
 
-        git clone https\\...
+        git clone https://github.com/anxielray/word-match.git
         cd .\wordmatch\
 
 - We are all set and ready to start.
