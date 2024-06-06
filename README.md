@@ -6,7 +6,7 @@
 
 - Word Match is a program that aims to check for successive appearance of the first string characters in the second string.
 
-### **_Introduction
+### **_Introduction_**
 
 - The project is written in Golang and follows the good practices.
 - It tests the basic logic of reasoning.
